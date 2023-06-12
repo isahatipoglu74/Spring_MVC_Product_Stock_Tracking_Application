@@ -27,10 +27,10 @@ Bu uygulama genel olarak ürün stok takip programı işlevi görmektedir.
 # Project Display Image
 <p>
 
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/1.png" width="250" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/2.png" width="250" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/3.png" width="250" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/4.png" width="250" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/5.png" width="250" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/1.png" width="250" height="350" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/2.png" width="250" height="350" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/3.png" width="250" height="350" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/4.png" width="250" height="350" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/5.png" width="250" height="350" style="max-width:100%;"></a>
 </p>
 
